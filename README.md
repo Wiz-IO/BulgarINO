@@ -70,8 +70,8 @@ So the condition **CHEAP** can be met<br>
 You can imagine from where the condition will be fulfilled: MASS USE - **industrial projects**<br>
 as an example<br>
 ![form](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/form-factor.jpg) <br>
-From a marketing perspective, you sell 4 products:<br>
-0. CHIP - HI Level Users
+From a marketing perspective, you sell 4 products:<br><br>
+0. CHIP - HI Level Users ( applies to chipmakers )
 1. MODULE - HI & MID Level Users
 2. Demo board -  MID & LO Level Users, fast experiments ... etc
 3. Just extended board

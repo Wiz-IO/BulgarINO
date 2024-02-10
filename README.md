@@ -27,3 +27,20 @@ Expanding the search ... The Result: **NONE cheap and easy solution !!!** <br>
 There is NOT even an ESP32 + RMII in module form<br>
 ( check yourself )<br>
 
+The "puzzle" automatically popped into my head. Only then did I analyze the "problem": why everything is COMPLICATED and EXPENSIVE
+1. the "problem" is created by the company's "economist" - he sets an economic goal without understanding the market, technology and trends...
+2. each piece of the puzzle is the work of specialists who only see their piece, but do not see the big picture and are busy fulfilling the goal of the manager who set the task
+
+![vacancy](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/vacancy.jpg) 
+
+I jokingly trolled the public with the picture and the text: **C'mon guys, Do Something**<br>
+The result in the comments was ... point 1 and 2<br>
+EVERYONE reacted like it was a logical task<br>
+And it actually is: **These are the most recognizable concepts that have changed the World of Things in recent years**<br>
+( arranged by possibilities, and VACANCY is approximately between 500 MHz and 1GHz )<br>
+  - **Arduino** - Easy and Cheap, the biggest ecosystem !!! is there anyone who hasn't flashed the LED...
+  - **Espressif** - Easy, Cheap and Mass (over 200 million units per year, reference: 2021 Annual Report)
+  - **Rasberry PI** ( no commnets ! and they officially gave up on the concept )
+
+and so on...<br>
+What is missing and how it needs to be in order to be: **cheap and easy, therefore mass**<br>

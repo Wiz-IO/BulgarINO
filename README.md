@@ -23,4 +23,7 @@ These boards **cannot be EMBEDDED** on my PCB board (project) !!! <br>
 2. I will not explore their SDK and OS at all
 3. Unnecessary waste of time... etc
 
+Expanding the search ... The Result: **NONE cheap and easy solution !!!** <br>
+There is NOT even an ESP32 + RMII in module form<br>
+( check yourself )<br>
 

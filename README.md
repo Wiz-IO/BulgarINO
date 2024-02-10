@@ -9,7 +9,7 @@ Trivial and cheap solution, the part **HMI-IoT** I designed it with ESP32 + RMII
 
 * ESP32 - connection to the EV controller, Display ( HMI ) and WiFi ( for local remote control )
 * RMII - Ethernet - Internet capability
-* LTE - as RMII
+* LTE - same as RMII - Internet
   
 By the way ESP32 + RMII + LTE is the most used combination for **industrial** purposes<br>
 

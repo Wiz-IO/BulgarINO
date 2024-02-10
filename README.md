@@ -47,7 +47,7 @@ and so on...<br>
 <br><br>How do you navigate such a jungle?<br>
 ( the small boards are missing, but the meaning is the same )<br><br>
 
-# What is missing and how it needs to be in order to be: **CHEAP and EASY, therefore MASS**<br>
+# What is missing and how it needs to be in order to be:<br> **CHEAP and EASY, therefore MASS**<br>
 
 ## HARDWARE
 

@@ -73,7 +73,7 @@ as an example<br>
 From a marketing perspective, you sell 4 products:<br>
 0. CHIP - HI Level Users
 1. MODULE - HI & MID Level Users
-2. Demo board -  MID & LO Level Users
+2. Demo board -  MID & LO Level Users, fast experiments ... etc
 3. Just extended board
 
 I'm not advertising the above module - it costs $5 and has over 5x the capabilities of the ESP32<br>

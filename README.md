@@ -54,7 +54,17 @@ and so on...<br>
 There are well over 5 IoT chips on the market right now that are well under $5 <br>and around $5 demo boards
 and many more unusable chips under NDA ... ( [as an example](https://jaycarlson.net/embedded-linux/) )<br>
 It is understood from the article that we will talk about Embedded Linux ( doesn't have to be Linux )<br>
-So the condition **CHEAP** can be met
+So the condition **CHEAP** can be met<br>
+
+**MODULE colleagues, MODULES !!!**
+* whoever wants to build a project from scratch is his problem and no one limits him
+* easily embed into **industrial** and hobby projects
+* hardware bugs are avoided
+* saves design time
+* there are many core chips ... 1 for OS, 1 for FreeRTOS ?! lots of room for creativity
+* they have specialized peripherals - displays, 2D acceleration, and even AI...
+
+You can imagine from where the condition will be fulfilled: MASS USE - **industrial projects**
 
 ## SOFTWARE
 

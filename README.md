@@ -45,14 +45,14 @@ And it actually is:<br> **These are the most recognizable concepts that have cha
 and so on...<br>
 ![jungle](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/jungle.jpg)
 <br><br>How do you navigate such a jungle?<br>
-(the small boards are missing, but the meaning is the same)<br><br>
+( the small boards are missing, but the meaning is the same )<br><br>
 
-What is missing and how it needs to be in order to be: **CHEAP and EASY, therefore MASS**<br>
+# What is missing and how it needs to be in order to be: **CHEAP and EASY, therefore MASS**<br>
 
+## HARDWARE
 
+## SOFTWARE
+
+## INTEGRATION
 
 TODO
-* HARDWARE
-* SOFTWARE
-* INTEGRATION
-

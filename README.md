@@ -44,3 +44,9 @@ And it actually is: **These are the most recognizable concepts that have changed
 
 and so on...<br>
 What is missing and how it needs to be in order to be: **cheap and easy, therefore mass**<br>
+
+TODO
+* HARDWARE
+* SOFTWARE
+* INTEGRATION
+

@@ -16,3 +16,5 @@ By the way ESP32 + RMII + LTE is the most used combination for industrial purpos
 Due to the fact that the PCB board had to be of minimal dimensions, I stacked the components several times<br>
 -- Damn it... it's the 21st century, Isn't there some **SMART** solution to the above combination<br>
 I'm very familiar with what's on the market and started searching the web for: **a cheap and easy solution** <br>
+The very first results surprised me, there are countless **DEMO** boards and none of them work for me<br>
+These boards **cannot be EMBEDDED** on my PCB board (project) !!! <br>

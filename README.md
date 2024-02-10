@@ -67,11 +67,15 @@ So the condition **CHEAP** can be met<br>
 You can imagine from where the condition will be fulfilled: MASS USE - **industrial projects**<br>
 as an example<br>
 ![form](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/form-factor.jpg) <br>
-From a marketing perspective, you sell 4 products:
+From a marketing perspective, you sell 4 products:<br>
 0. CHIP - HI Level Users
 1. MODULE - HI & MID Level Users
 2. Demo board -  MID & LO Level Users
 3. Just extended board
+
+I'm not advertising the above module - it costs $5 and has over 5x the capabilities of the ESP32<br>
+
+If you think I'm wrong, there's no point in continuing...
 
 ## SOFTWARE
 

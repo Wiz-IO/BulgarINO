@@ -1,5 +1,7 @@
 # BulgarINO / БългарINO 
-( the name is just a joke )
+the name is just a joke, no meaning of a name, but if I had to come up with a name for it, I would use something like: Tangra, Tengry ... [There is an interesting picture](https://en.wikipedia.org/wiki/Tengri#/media/File:Tengrism1.svg)
+<br>does not matter
+
 # IoT Concept
 
 In short: For the last 10 years I have been trying to make Things easier<br>

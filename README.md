@@ -64,7 +64,14 @@ So the condition **CHEAP** can be met<br>
 * there are many core chips ... 1 for OS, 1 for FreeRTOS ?! lots of room for creativity
 * they have specialized peripherals - displays, 2D acceleration, and even AI...
 
-You can imagine from where the condition will be fulfilled: MASS USE - **industrial projects**
+You can imagine from where the condition will be fulfilled: MASS USE - **industrial projects**<br>
+as an example<br>
+![form](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/form-factor.jpg) <br>
+From a marketing perspective, you sell 4 products:
+0. CHIP - HI Level Users
+1. MODULE - HI & MID Level Users
+2. Demo board -  MID & LO Level Users
+3. Just extended board
 
 ## SOFTWARE
 

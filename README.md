@@ -51,9 +51,10 @@ and so on...<br>
 
 ## HARDWARE
 
-There are well over 5 IoT chips on the market right now that are well under $5 and around $5 demo boards
+There are well over 5 IoT chips on the market right now that are well under $5 <br>and around $5 demo boards
 and many more unusable chips under NDA ... ( [as an example](https://jaycarlson.net/embedded-linux/) )<br>
-It is understood from the article that we will talk about Embedded Linux ( doesn't have to be Linux )
+It is understood from the article that we will talk about Embedded Linux ( doesn't have to be Linux )<br>
+So the condition **CHEAP** can be met
 
 ## SOFTWARE
 

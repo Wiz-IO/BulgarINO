@@ -11,13 +11,13 @@ Trivial and cheap solution, the part **HMI-IoT** I designed it with ESP32 + RMII
 * RMII - Ethernet - Internet capability
 * LTE - same as RMII - Internet
   
-By the way ESP32 + RMII + LTE is the most used combination for **industrial** purposes<br>
+By the way **ESP32 + RMII** + LTE is the most used combination for **industrial** purposes<br>
 
 Due to the fact that the PCB board had to be of minimal dimensions, I stacked the components several times<br>
 -- Damn it... it's the 21st century, Isn't there some **SMART** solution to the above combination<br>
 I'm very familiar with what's on the market and started searching the web for: **a cheap and easy solution** <br>
 The very first results surprised me, there are countless **DEMO** boards and none of them work for me<br>
-These boards **cannot be EMBEDDED** on my PCB board (project) !!! <br>
+These boards **cannot be EMBEDDED** on my PCB board ( industrial project ) !!! <br>
 
 1. I won't be wiring them from scratch
 2. I will not explore their SDK and OS at all

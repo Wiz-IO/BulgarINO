@@ -64,7 +64,7 @@ So the condition **CHEAP** can be met<br>
 * easily embed into **industrial** and hobby projects
 * hardware bugs are avoided
 * saves design time
-* there are many core chips ... 1 for OS, 1 for FreeRTOS ?! lots of room for creativity
+* there are chips with many and different cores ... 1 for OS, 1 for FreeRTOS ?! lots of room for creativity...
 * they have specialized peripherals - displays, 2D acceleration, and even AI...
 
 You can imagine from where the condition will be fulfilled: MASS USE - **industrial projects**<br>

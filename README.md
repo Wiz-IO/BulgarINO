@@ -78,7 +78,7 @@ From a marketing perspective, you sell 4 products:<br>
 
 I'm not advertising the above module - it costs $5 and has over 5x the capabilities of the ESP32<br>
 
-If you think I'm wrong, there's no point in continuing...
+If you think I'm wrong, there's no point in continuing... ( waiting for comments )
 
 ## SOFTWARE
 

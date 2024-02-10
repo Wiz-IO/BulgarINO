@@ -53,6 +53,7 @@ and so on...<br>
 ( the small boards are missing, but the meaning is the same )<br><br>
 
 # What is missing and how it needs to be in order to be:<br> **CHEAP and EASY, therefore MASS**<br>
+How to scale complex technology: Make it easy and accessible !!!
 
 ## HARDWARE
 

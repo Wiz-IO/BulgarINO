@@ -43,8 +43,8 @@ And it actually is:<br> **These are the most recognizable concepts that have cha
   - **Rasberry PI** ( no commnets !!! and they officially gave up on the concept )
 
 and so on...<br>
-![jungle](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/jungle.jpg) 
-How do you navigate such a jungle?<br>
+![jungle](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/jungle.jpg)
+<br><br>How do you navigate such a jungle?<br>
 (the small boards are missing, but the meaning is the same)<br><br>
 
 What is missing and how it needs to be in order to be: **CHEAP and EASY, therefore MASS**<br>

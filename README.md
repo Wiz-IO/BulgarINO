@@ -36,7 +36,7 @@ The "puzzle" automatically popped into my head. Only then did I analyze the "pro
 I jokingly trolled the public with the picture and the text: **C'mon guys, Do Something**<br>
 The result in the comments was ... point 1 and 2<br>
 EVERYONE reacted like it was a logical task<br>
-And it actually is: **These are the most recognizable concepts that have changed the World of Things in recent years**<br>
+And it actually is:<br> **These are the most recognizable concepts that have changed the World of Things in recent years**<br>
 ( arranged by possibilities, and VACANCY is approximately between 500 MHz and 1GHz - MCU / SoC / SiP )<br>
   - **Arduino** - Easy and Cheap, the biggest ecosystem !!! is there anyone who hasn't flashed the LED...
   - **Espressif** - Easy, Cheap and Mass (over 200 million units per year, reference: 2021 Annual Report)

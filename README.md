@@ -27,9 +27,9 @@ Expanding the search ... The Result: **NONE cheap and easy solution !!!** <br>
 There is NOT even an ESP32 + RMII in module form<br>
 ( check yourself )<br>
 
-The "puzzle" automatically popped into my head. Only then did I analyze the "problem": why everything is COMPLICATED and EXPENSIVE
-1. the "problem" is created by the company's "economist" - he sets an economic goal without understanding the market, technology and trends...
-2. each piece of the puzzle is the work of specialists who only see their piece, but do not see the big picture and are busy fulfilling the goal of the manager who set the task
+The "puzzle" automatically popped into my head. Only then did I analyze the "problem": why everything is **COMPLICATED and EXPENSIVE**
+1. The "problem" is created by the company's "economist" - he sets an economic goal without understanding the market, technology and trends...
+2. Each piece of the puzzle is the work of specialists who only see their piece, but do not see the big picture and are busy fulfilling the goal of the manager who set the task
 
 ![vacancy](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/vacancy.jpg) 
 

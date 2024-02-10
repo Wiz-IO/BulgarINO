@@ -38,12 +38,12 @@ The result in the comments was ... point 1 and 2<br>
 EVERYONE reacted like it was a logical task<br>
 And it actually is:<br> **These are the most recognizable concepts that have changed the World of Things in recent years**<br>
 ( arranged by possibilities, and VACANCY is approximately between 500 MHz and 1GHz - MCU / SoC / SiP )<br>
-  - **Arduino** - Easy and Cheap, the biggest ecosystem !!! is there anyone who hasn't flashed the LED...
-  - **Espressif** - Easy, Cheap and Mass (over 200 million units per year, reference: 2021 Annual Report)
-  - **Rasberry PI** ( no commnets ! and they officially gave up on the concept )
+  - **Arduino** - Easy and Cheap, **The biggest ecosystem** !!! is there anyone who hasn't flashed the LED ?
+  - **Espressif** - Easy, Cheap and Mass ( over 200 million units per year, reference: 2021 Annual Report )
+  - **Rasberry PI** ( no commnets !!! and they officially gave up on the concept )
 
 and so on...<br>
-What is missing and how it needs to be in order to be: **cheap and easy, therefore mass**<br>
+What is missing and how it needs to be in order to be: **CHEAP and EASY, therefore MASS**<br>
 
 TODO
 * HARDWARE

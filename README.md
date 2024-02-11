@@ -1,5 +1,6 @@
 # BulgarINO / БългарINO 
 **The name is just a joke** ... с ударение на И :)<br> 
+and sorry for my English
 
 # IoT Concept
 

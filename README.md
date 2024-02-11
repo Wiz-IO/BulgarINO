@@ -60,6 +60,13 @@ and many more unusable chips under NDA ... ( [as an example](https://jaycarlson.
 It is understood from the article that we will talk about Embedded Linux ( doesn't have to be Linux )<br>
 So the condition **CHEAP** can be met<br>
 
+Examples of incorrectly positioned products
+* [SigmaStar SSD210 tiny dual-core Arm Cortex-A7](https://www.cnx-software.com/2021/03/19/sigmastar-ssd210-tiny-dual-core-arm-cortex-a7-soc-64mb-ram-rgb-display/)
+* [$6 Pine64 Ox64 SBC](https://www.cnx-software.com/2022/12/02/pine64-ox64-sbc-bl808-risc-v-multi-protocol-wisoc-64mb-ram/)
+* ALL PI Zero Clonings
+
+
+
 **MODULE colleagues, MODULES !!!**
 * whoever wants to build a project from scratch is his problem and no one limits him
 * easily embed into **industrial** and hobby projects

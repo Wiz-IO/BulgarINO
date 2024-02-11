@@ -100,7 +100,7 @@ If you think I'm wrong, there's no point in continuing... ( waiting for comments
 ## INTEGRATION ( TODO )
 
 ## SUMMARY ( TODO )
-Do these trivial things:
+Do these base and trivial things:
 1. Module ( SiP too )
 2. 
 3.

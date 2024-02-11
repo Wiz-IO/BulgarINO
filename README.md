@@ -100,7 +100,9 @@ Do these trivial things:
 3.
 4.
 5.
-6.
+6. Simple integration
+
+If you don't do them, someone else will and you'll chase them...
 
 >If you want to help / support:   
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESUP9LCZMZTD6)

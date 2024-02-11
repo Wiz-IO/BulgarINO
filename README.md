@@ -89,11 +89,11 @@ I'm not advertising the above module - it costs $5 and has over 5x the capabilit
 
 If you think I'm wrong, there's no point in continuing... ( waiting for comments )
 
-## SOFTWARE
+## SOFTWARE ( TODO )
 
-## INTEGRATION
+## INTEGRATION ( TODO )
 
-## TODO !!!
+## SUMMARY ( TODO )
 
 
 >If you want to help / support:   

@@ -94,7 +94,13 @@ If you think I'm wrong, there's no point in continuing... ( waiting for comments
 ## INTEGRATION ( TODO )
 
 ## SUMMARY ( TODO )
-
+Do these trivial things:
+1. Module ( SiP too )
+2. 
+3.
+4.
+5.
+6.
 
 >If you want to help / support:   
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESUP9LCZMZTD6)

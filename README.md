@@ -101,7 +101,7 @@ If you think I'm wrong, there's no point in continuing... ( waiting for comments
 
 ## SUMMARY ( TODO )
 Do these base and trivial things:
-1. Module ( SiP too )
+1. Module
 2. 
 3.
 4.

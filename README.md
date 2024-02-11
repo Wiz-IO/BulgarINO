@@ -50,6 +50,11 @@ and so on...<br>
 <br><br>How do you navigate such a jungle?<br>
 ( the small boards are missing, but the meaning is the same )<br><br>
 
+I haven't found the "warm water", I'm just trying to get "the puzzle" right<br>
+From a historical point of view, embedded solutions start from 2003 Motorola A760 base ( the basis of Android **SMART** phones )<br>
+( and others before that )<br>
+And one of the first mass SBCs was the BeagleBoard ( 2008 )<br>
+
 # What is missing and how it needs to be in order to be:<br> **CHEAP and EASY, therefore MASS**<br>
 How to scale complex technology: Make it easy and accessible !!!
 

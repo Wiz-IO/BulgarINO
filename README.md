@@ -65,7 +65,8 @@ Examples of incorrectly positioned products
 * [$6 Pine64 Ox64 SBC](https://www.cnx-software.com/2022/12/02/pine64-ox64-sbc-bl808-risc-v-multi-protocol-wisoc-64mb-ram/)
 * ALL PI Zero Clonings
 
-
+Examples of correctly positioned products
+* [Sipeed M1 RISC-V](https://www.cnx-software.com/2018/10/22/sipeed-m1-risc-v-computer-vision-module/)
 
 **MODULE colleagues, MODULES !!!**
 * whoever wants to build a project from scratch is his problem and no one limits him

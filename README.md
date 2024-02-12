@@ -53,7 +53,8 @@ and so on...<br>
 ( the small boards are missing, but the meaning is the same )<br><br>
 
 I haven't found the "warm water", I'm just trying to get "the puzzle" right<br>
-From a historical point of view, embedded solutions start from 2003 Motorola A760 base ( the basis of Android **SMART** phones )<br>
+From a historical point of view, embedded solutions start from 2003 Motorola A760 base <br> 
+the basis of Android **SMART** phones<br>
 ( and others before that )<br>
 And one of the first mass SBCs was the BeagleBoard ( 2008 )<br>
 

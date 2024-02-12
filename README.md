@@ -108,9 +108,11 @@ int main() {
 ```
 **gcc -o HelloWorld main.c**
 
+
+I personally don't know a developer who hasn't worked with the following:
 * Eclipse
 * VSCode
-* PlatformIO
+* **PlatformIO** ( 10 Desktop IDEs )
 * Arduino IDE
 
 ## SUMMARY ( TODO )

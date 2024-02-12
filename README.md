@@ -59,7 +59,7 @@ And one of the first mass SBCs was the BeagleBoard ( 2008 )<br>
 
 # What is missing and how it needs to be in order to be:<br> **CHEAP and EASY, therefore MASS**<br>
 
-![hmi](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/soft.jpg) 
+![wires](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/soft.jpg) 
 
 ## HARDWARE
 

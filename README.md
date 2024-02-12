@@ -100,17 +100,7 @@ If you think I'm wrong, there's no point in continuing... ( waiting for comments
 ## SOFTWARE ( TODO )
 
 ## INTEGRATION ( TODO )
-Works with the simplest text editor - MAKE - GCC ( **multi-platform** )
-```c
-#include <stdio.h>
-int main() {
-    printf("Hello, world!\n");
-    return 0;
-}
-```
-**gcc -o HelloWorld main.c**
-
-<br><br>
+Works with the simplest text editor - MAKE - GCC ( **multi-platform** )<br>
 I personally don't know a developer who hasn't worked with the following:
 * Eclipse
 * VSCode

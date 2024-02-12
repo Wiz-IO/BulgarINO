@@ -3,6 +3,7 @@
 and sorry for my English
 
 # IoT Concept
+How to scale complex technology: Make it easy and accessible !!!
 
 In short: For the last 10 years I have been trying to make Things easier<br>
 BTW: Last three months I talked to almost all the big manufacturers: they all rejected the idea :)
@@ -57,7 +58,6 @@ From a historical point of view, embedded solutions start from 2003 Motorola A76
 And one of the first mass SBCs was the BeagleBoard ( 2008 )<br>
 
 # What is missing and how it needs to be in order to be:<br> **CHEAP and EASY, therefore MASS**<br>
-How to scale complex technology: Make it easy and accessible !!!
 
 ## HARDWARE
 

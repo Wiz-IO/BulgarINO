@@ -3,7 +3,7 @@
 and sorry for my English
 
 # IoT Concept
-How to scale complex technology: Make it easy and accessible !!!
+How to scale complex technology: **Make it easy and accessible !!!**
 
 In short: For the last 10 years I have been trying to make Things easier<br>
 BTW: Last three months I talked to almost all the big manufacturers: they all rejected the idea :)

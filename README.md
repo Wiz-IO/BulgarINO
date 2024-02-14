@@ -104,6 +104,28 @@ We all know about its "complexity" - compiling, settings, etc.<br>
 All manufacturers need to test the functionality of the demo board before releasing it to the market. <br>
 Why isn't a Linux image published as **FIRMWARE** when it's already compiled and tested? ( just logic )<br>
 It's crystal clear that high-level clients can handle the challenges, and there are no comments for them.<br>
+( I emphasize the medium and small business, including hobbies. )<br>
+Basic **FIRMWARE**, 99% of the clients want to power up the module/board and have everything work.<br> 
+They don't want to deal with OS compilation, and for some, it will also be an opportunity for learning.<br>
+
+**Firmware Uploader** - most of them have it, and modules/boards can also be pre-flashed at the factory.
+
+We power up the board, and all of us want to start creating and experimenting with **our projects** and ideas,<br> 
+not dealing with kernel compilation and its settings.<br>
+
+Where is the Power of Linux apart from being Open Source, **is in its standard ANSI C, C++, POSIX**<br>
+Personally, I don't know an embedded developer who doesn't know C. <br>
+ANSI C is at the core of the smallest MCUs, Arduino Core, microPython, etc. <br>
+C is taught in "every" school and university, and everyone should start with it. <br>
+Even Arduino is the same and works in the same way ( with simplified function names ).<br>
+
+**Userware Applications** (  multiple applications can be executed )<br>
+and to begin writing printf("Hello World"),<br>
+there must be a **USER API** to the kernel and peripherals...<br>
+
+ANSI C, C++, POSIX is available at the client level, meaning **this category will inherit ALL Ecosystems from all junior categories** <br> 
+as well as parts of the next SBC category. <br>
+**The entire zoo of existing Hardware and Software solutions exists up to now !!!** <br>
 
 ## INTEGRATION ( TODO )
 Works with the simplest text editor - MAKE - GCC ( **multi-platform** )<br>

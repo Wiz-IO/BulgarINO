@@ -177,8 +177,8 @@ DEMONSTRATIONS:
 * [Azure Sphere M4F FreeRTOS](https://www.youtube.com/watch?v=9-ozj0XCyF8)
 * [Azure Sphere microPython](https://www.youtube.com/watch?v=EVx8pP0rD1Q)
 
-**Qualcomm LTE Linux Modems (e.g., Uqectel EC2x)**
-The concept exists, yet no one uses it - it's an outdated and very expensive solution...
+**Qualcomm LTE Linux Modems (e.g., Uqectel EC2x)** <br>
+The concept exists, yet no one uses it - it's an outdated and very expensive solution...<br>
 DEMONSTRATIONS:
 * [PlatformIO Arduino - Quectel EC25 - MQTT Amazon IoT](https://www.youtube.com/watch?v=sbLJNXTRLxc)
 * [PlatformIO Arduino - Quectel EC25 - HTTP / HTTPS](https://www.youtube.com/watch?v=nw-W78SpLRQ)

@@ -98,7 +98,7 @@ I'm not advertising the above module - it costs $5 and has over 5x the capabilit
 
 If you think I'm wrong, there's no point in continuing... ( waiting for comments )
 
-## SOFTWARE ( TODO )
+## SOFTWARE
 In this section, we will talk about **embedded Linux** ( for some chips, understand **NuttX** )<br>
 We all know about its "complexity" - compiling, settings, etc.<br>
 All manufacturers need to test the functionality of the demo board before releasing it to the market. <br>
@@ -134,7 +134,7 @@ Does ANSI C, C++, POSIX suffice for **industry**?<br>
 **Userware Uploader** - the easiest and most commonly used solution for upload and access to the file system is the **ADB daemon**<br>
 The **GDB daemon** allows interactive debugging of client applications without hardware interfaces.<br>
 
-## INTEGRATION ( TODO )
+## INTEGRATION
 Works with the simplest text editor - MAKE - GCC ( **multi-platform** )<br>
 I personally don't know a developer who hasn't worked with the following:
 * Eclipse
@@ -142,14 +142,47 @@ I personally don't know a developer who hasn't worked with the following:
 * **PlatformIO** ( 10 Desktop IDEs )
 * Arduino IDE
 
-## SUMMARY ( TODO )
-Do these base and trivial things:
-1. Module
-2. 
-3.
-4.
-5.
-6. Simple integration
+Create New Project ( C, C++, Arduino ... etc )<br>
+User code ... Compile, Upload/Debug, Monitor<br>
+Something complex for industrial and hobby projects?<br>
+
+## SUMMARY 
+What are the basic trivial things to make it easy and massive:
+1. **MODULE**
+2. **FIRMWARE**
+3. **USER API / USERWARE APPLICATIONS**
+4. **ADB**
+5. **GDB**
+6. **INTEGRATION**
+
+Now do you understand how easy the "puzzle" is and why no one saw it until now?<br>
+Again, I reiterate, I haven't discovered hot water...<br>
+The concept: **Firmware - Userware** has existed for a long time and widely,<br>
+every phone, and not only, works this way<br>
+and this IoT category should work just like that
+
+especially in embedded systems:<br>
+[**BeagleBone**](https://en.wikipedia.org/wiki/BeagleBoard) 2008 worked with Python client-side by default, <br>
+perhaps the first mass-market SBC, there was no Raspberry Pi at that time.<br>
+
+[**Microsoft AzureSphere ( Mediatek MT3620, A7 + several M4 cores )**](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ms-azure-sphere/) <br>
+Unfortunately, Microsoft overshot by 300%, and the project is actually a **total failure** <br>
+The project satisfies corporate interests, one of its goals being MAXIMUM SECURITY and for that to happen, it really needs: <br>
+**FIRMWARE - USERWARE**<br>
+DEMONSTRATIONS:
+* https://www.youtube.com/watch?v=HCDTlCzEmw0
+* https://www.youtube.com/watch?v=ucOvjfXg0-o
+* https://www.youtube.com/watch?v=-hhSmKoT8T0
+* https://www.youtube.com/watch?v=bdG8GsRaUSA
+* https://www.youtube.com/watch?v=9-ozj0XCyF8
+* https://www.youtube.com/watch?v=EVx8pP0rD1Q
+
+**Qualcomm LTE Linux Modems (e.g., Uqectel EC2x)**
+The concept exists, yet no one uses it - it's an outdated and very expensive solution...
+DEMONSTRATIONS:
+* https://www.youtube.com/watch?v=sbLJNXTRLxc
+* https://www.youtube.com/watch?v=nw-W78SpLRQ
+* https://www.youtube.com/watch?v=YgKAmD0tVig
 
 If you don't do them, someone else will and you'll chase them...
 

@@ -170,19 +170,19 @@ Unfortunately, Microsoft overshot by 300%, and the project is actually a **total
 The project satisfies corporate interests, one of its goals being MAXIMUM SECURITY and for that to happen, it really needs: <br>
 **FIRMWARE - USERWARE**<br>
 DEMONSTRATIONS:
-* https://www.youtube.com/watch?v=HCDTlCzEmw0
-* https://www.youtube.com/watch?v=ucOvjfXg0-o
-* https://www.youtube.com/watch?v=-hhSmKoT8T0
-* https://www.youtube.com/watch?v=bdG8GsRaUSA
-* https://www.youtube.com/watch?v=9-ozj0XCyF8
-* https://www.youtube.com/watch?v=EVx8pP0rD1Q
+* [Azure Sphere MQTT to Google IoT - Arduino PlatformIO](https://www.youtube.com/watch?v=HCDTlCzEmw0)
+* [Azure Sphere MQTT to Amazon - Arduino PlatformIO](https://www.youtube.com/watch?v=ucOvjfXg0-o)
+* [Arduino Azure Sphere - PubSub MQTT Client](https://www.youtube.com/watch?v=-hhSmKoT8T0)
+* [Azure Sphere - Wiring ( Arduino ) MT3620 Cortex-M4](https://www.youtube.com/watch?v=bdG8GsRaUSA)
+* [Azure Sphere M4F FreeRTOS](https://www.youtube.com/watch?v=9-ozj0XCyF8)
+* [Azure Sphere microPython](https://www.youtube.com/watch?v=EVx8pP0rD1Q)
 
 **Qualcomm LTE Linux Modems (e.g., Uqectel EC2x)**
 The concept exists, yet no one uses it - it's an outdated and very expensive solution...
 DEMONSTRATIONS:
-* https://www.youtube.com/watch?v=sbLJNXTRLxc
-* https://www.youtube.com/watch?v=nw-W78SpLRQ
-* https://www.youtube.com/watch?v=YgKAmD0tVig
+* [PlatformIO Arduino - Quectel EC25 - MQTT Amazon IoT](https://www.youtube.com/watch?v=sbLJNXTRLxc)
+* [PlatformIO Arduino - Quectel EC25 - HTTP / HTTPS](https://www.youtube.com/watch?v=nw-W78SpLRQ)
+* [PlatformIO Quectel EC25 Arduino](https://www.youtube.com/watch?v=YgKAmD0tVig)
 
 ![all](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/all.jpg)
 

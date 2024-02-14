@@ -184,6 +184,8 @@ DEMONSTRATIONS:
 * https://www.youtube.com/watch?v=nw-W78SpLRQ
 * https://www.youtube.com/watch?v=YgKAmD0tVig
 
+![all](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/all.jpg)
+
 If you don't do them, someone else will and you'll chase them...
 
 >If you want to help / support:   

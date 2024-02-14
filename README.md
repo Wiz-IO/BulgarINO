@@ -99,6 +99,11 @@ I'm not advertising the above module - it costs $5 and has over 5x the capabilit
 If you think I'm wrong, there's no point in continuing... ( waiting for comments )
 
 ## SOFTWARE ( TODO )
+In this section, we will talk about **embedded Linux** ( for some chips, understand **NuttX** )<br>
+We all know about its "complexity" - compiling, settings, etc.<br>
+All manufacturers need to test the functionality of the demo board before releasing it to the market. <br>
+Why isn't a Linux image published as **FIRMWARE** when it's already compiled and tested? ( just logic )<br>
+It's crystal clear that high-level clients can handle the challenges, and there are no comments for them.<br>
 
 ## INTEGRATION ( TODO )
 Works with the simplest text editor - MAKE - GCC ( **multi-platform** )<br>

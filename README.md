@@ -186,6 +186,9 @@ DEMONSTRATIONS:
 * [PlatformIO Arduino - Quectel EC25 - HTTP / HTTPS](https://www.youtube.com/watch?v=nw-W78SpLRQ)
 * [PlatformIO Quectel EC25 Arduino](https://www.youtube.com/watch?v=YgKAmD0tVig)
 
+**In some cases, even a module is not needed**
+[Visual Simulator - DOOM](https://www.youtube.com/watch?v=SKojOHDvfC0)
+
 ![all](https://raw.githubusercontent.com/Wiz-IO/BulgarINO/main/images/all.jpg)
 
 If you don't do them, someone else will and you'll chase them...

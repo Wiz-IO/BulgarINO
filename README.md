@@ -153,8 +153,8 @@ What are the basic trivial things to make it easy and massive:
 1. **MODULE**
 2. **FIRMWARE**
 3. **USER API / USERWARE APPLICATIONS**
-4. **ADB**
-5. **GDB**
+4. **ADB** ( see 6 )
+5. **GDB** ( see 6 )
 6. **INTEGRATION**
 
 Now do you understand how easy the "puzzle" is and why no one saw it until now?<br>
